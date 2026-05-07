@@ -1,0 +1,3801 @@
+/* Rectangle 10 */
+
+position: absolute;
+width: 1440px;
+height: 128px;
+left: 0px;
+top: 6px;
+
+background: #FFFFFF;
+---------------------------------------
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1440px;
+height: 859px;
+left: 0px;
+top: 4px;
+
+background: #FFB9AF;
+opacity: 0.1;
+border: 1px solid #000000;
+---------------------------------------
+/* Group 9627 */
+
+position: absolute;
+width: 1542px;
+height: 420px;
+left: -102px;
+top: 916px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 1440px;
+height: 420px;
+left: 0px;
+top: 916px;
+
+background: #FFFFFF;
+
+
+/* Group 9061 */
+
+position: absolute;
+width: 445px;
+height: 409px;
+left: -102px;
+top: 927px;
+
+
+
+/* Group 9062 */
+
+position: absolute;
+width: 445px;
+height: 409px;
+left: -102px;
+top: 927px;
+
+
+
+/* Ellipse 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 409px;
+height: 409px;
+left: -102px;
+top: 927px;
+
+opacity: 0.7;
+border: 4px solid #FEEEDB;
+
+
+/* Ellipse 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 361px;
+height: 361px;
+left: -18px;
+top: 952px;
+
+opacity: 0.7;
+border: 4px solid #FEEEDB;
+
+
+/* Ellipse 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 225px;
+height: 225px;
+left: 15px;
+top: 1026px;
+
+opacity: 0.7;
+border: 4px solid #FEEEDB;
+
+
+/* Group 9067 */
+
+position: absolute;
+width: 527px;
+height: 305px;
+left: 765px;
+top: 978px;
+
+
+
+/* Group 24 */
+
+position: absolute;
+width: 527px;
+height: 305px;
+left: 765px;
+top: 978px;
+
+
+
+/* Find Match Now and Develop Your Feelings */
+
+position: absolute;
+width: 457px;
+height: 120px;
+left: 765px;
+top: 978px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+
+color: #262626;
+
+
+
+/* There are so many platforms from this Pokan to make a task manager manage all your time, the data needed is very useful. and we have it all to get you to be successful */
+
+position: absolute;
+width: 527px;
+height: 81px;
+left: 765px;
+top: 1122px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #727272;
+
+
+
+/* Group 30 */
+
+position: absolute;
+width: 127px;
+height: 48px;
+left: 765px;
+top: 1235px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 127px;
+height: 48px;
+left: 765px;
+top: 1235px;
+
+background: #FF725E;
+border-radius: 8px;
+
+
+/* Read More */
+
+position: absolute;
+width: 76px;
+height: 21px;
+left: 790px;
+top: 1249px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+---------------------------------------
+/* Content */
+
+position: absolute;
+width: 1440px;
+height: 670px;
+left: 0px;
+top: 1407px;
+
+
+
+/* Rectangle 12 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1440px;
+height: 670px;
+left: 0px;
+top: 1407px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+
+/* Group 9065 */
+
+position: absolute;
+width: 457px;
+height: 469px;
+left: 120px;
+top: 1510px;
+
+
+
+/* Group 9064 */
+
+position: absolute;
+width: 457px;
+height: 469px;
+left: 120px;
+top: 1510px;
+
+
+
+/* How It Works To Find Your Relationship */
+
+position: absolute;
+width: 437px;
+height: 120px;
+left: 140px;
+top: 1510px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+
+color: #262626;
+
+
+
+/* Group 32 */
+
+position: absolute;
+width: 441px;
+height: 78px;
+left: 120px;
+top: 1678px;
+
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 120px;
+top: 1678px;
+
+background: #FF834F;
+opacity: 0.3;
+
+
+/* 7 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 140px;
+top: 1698px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 13.79%;
+right: 16.66%;
+top: 13.79%;
+bottom: 16.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 13.79%;
+right: 25.54%;
+top: 13.79%;
+bottom: 25.54%;
+
+border: 2px solid #FF725E;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.59%;
+right: 16.66%;
+top: 65.59%;
+bottom: 16.67%;
+
+border: 2px solid #FF725E;
+
+
+/* Find your dating relationship in app and waiting until you get a notification. have a good relationship its started */
+
+position: absolute;
+width: 353px;
+height: 77px;
+left: 208px;
+top: 1679px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #727272;
+
+
+
+/* Group 33 */
+
+position: absolute;
+width: 441px;
+height: 79px;
+left: 120px;
+top: 1788px;
+
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 120px;
+top: 1788px;
+
+background: #FF834F;
+opacity: 0.3;
+
+
+/* 38 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 140px;
+top: 1808px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 9.21%;
+top: 12.5%;
+bottom: 15.99%;
+
+border: 2px solid #FF725E;
+
+
+/* Dating with benefits and you redefine the expectations of a perfect relationship with your partner */
+
+position: absolute;
+width: 353px;
+height: 77px;
+left: 208px;
+top: 1790px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #727272;
+
+
+
+/* Group 34 */
+
+position: absolute;
+width: 441px;
+height: 80px;
+left: 120px;
+top: 1899px;
+
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 120px;
+top: 1899px;
+
+background: #FF834F;
+opacity: 0.3;
+
+
+/* 70 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 140px;
+top: 1919px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 15%;
+right: 16.58%;
+top: 19.17%;
+bottom: 10%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 30.5%;
+right: 40.25%;
+top: 19.17%;
+bottom: 51.58%;
+
+border: 2px solid #FF725E;
+
+
+/* Vector */
+
+position: absolute;
+left: 15%;
+right: 30.17%;
+top: 57.17%;
+bottom: 22.42%;
+
+border: 2px solid #FF725E;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.75%;
+right: 16.58%;
+top: 75%;
+bottom: 10%;
+
+border: 2px solid #FF725E;
+
+
+/* Ideal relationship makes your online dating relationship run more smoothly using this app */
+
+position: absolute;
+width: 353px;
+height: 77px;
+left: 208px;
+top: 1902px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #727272;
+
+---------------------------------------
+/* Content */
+
+position: absolute;
+width: 1440px;
+height: 990px;
+left: 0px;
+top: 2077px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 1440px;
+height: 990px;
+left: 0px;
+top: 2077px;
+
+background: #FFF8F7;
+
+
+/* Most Popular In This Week */
+
+position: absolute;
+width: 547px;
+height: 60px;
+left: 429px;
+top: 2173px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+color: #000026;
+
+
+
+/* There are so many platforms from this Pokan to make a task manager manage all your time, the data needed is very useful. and we have it all to get you to be successful */
+
+position: absolute;
+width: 527px;
+height: 81px;
+left: 419px;
+top: 2249px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+
+color: #727272;
+
+
+
+/* Group 9079 */
+
+position: absolute;
+width: 331px;
+height: 489px;
+left: 143px;
+top: 2386px;
+
+
+
+/* Group 9069 */
+
+position: absolute;
+width: 331px;
+height: 247.02px;
+left: 143px;
+top: 2386px;
+
+filter: drop-shadow(8.69783px 13.9165px 46.9683px rgba(0, 0, 0, 0.06));
+
+
+/* Rectangle 6 */
+
+position: absolute;
+visibility: hidden;
+width: 328px;
+height: 521px;
+left: 143px;
+top: 2386px;
+
+background: #FFFFFF;
+opacity: 0.9;
+border-radius: 20.8748px;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 328px;
+height: 247.02px;
+left: 143px;
+top: 2386px;
+
+background: #FF7460;
+opacity: 0.2;
+border-radius: 20.8748px 20.8748px 0px 0px;
+
+
+/* Mask Group */
+
+position: absolute;
+width: 328px;
+height: 247.02px;
+left: 146px;
+top: 2386px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 328px;
+height: 247.02px;
+left: 146px;
+top: 2386px;
+
+background: #FFAB9F;
+opacity: 0.9;
+
+
+/* Group */
+
+position: absolute;
+left: 15.23%;
+right: 72.59%;
+top: 60.02%;
+bottom: 35.82%;
+
+
+
+/* Layer 1 */
+
+position: absolute;
+left: 15.23%;
+right: 72.59%;
+top: 60.02%;
+bottom: 35.82%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 15.23%;
+right: 72.59%;
+top: 60.02%;
+bottom: 35.82%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 57.22px;
+height: 29.85px;
+left: 273.37px;
+top: 2468.63px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 57.22px;
+height: 27.43px;
+left: 273.37px;
+top: 2468.74px;
+
+background: #5E1212;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 98.26px;
+height: 41.87px;
+left: 252.85px;
+top: 2489.74px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 24.8px;
+height: 33.82px;
+left: 326.3px;
+top: 2490.18px;
+
+background: #5E1212;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 175.28px;
+height: 96.76px;
+left: 219.36px;
+top: 2543.17px;
+
+background: #FF725E;
+
+
+/* Vector */
+
+position: absolute;
+width: 77.13px;
+height: 56.51px;
+left: 267.29px;
+top: 2548.31px;
+
+background: linear-gradient(178.18deg, #D62B37 -36.23%, rgba(216, 44, 56, 0.96274) -31.02%, rgba(227, 50, 59, 0.79582) -4.05%, rgba(235, 54, 62, 0.66528) 24.29%, rgba(241, 58, 64, 0.57255) 54.26%, rgba(244, 59, 66, 0.51755) 86.93%, rgba(245, 60, 66, 0.5) 127.34%);
+background-blend-mode: multiply;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 45.27px;
+height: 55.11px;
+left: 281.03px;
+top: 2546.6px;
+
+background: #FFA787;
+
+
+/* Vector */
+
+position: absolute;
+width: 43.48px;
+height: 19.12px;
+left: 281.03px;
+top: 2550.46px;
+
+background: #FF8D69;
+
+
+/* Vector */
+
+position: absolute;
+width: 41px;
+height: 24.83px;
+left: 285.3px;
+top: 2581.7px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.99px;
+height: 28.51px;
+left: 362.71px;
+top: 2606.53px;
+
+background: #F53C42;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 15.42px;
+height: 41.96px;
+left: 237.46px;
+top: 2597.97px;
+
+background: #F53C42;
+mix-blend-mode: multiply;
+
+
+/* Group */
+
+position: absolute;
+left: 20.39%;
+right: 79.03%;
+top: 63.3%;
+bottom: 35.88%;
+
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 8.31px;
+height: 33.74px;
+left: 293.61px;
+top: 2603.54px;
+
+background: #F53C42;
+mix-blend-mode: multiply;
+
+
+/* Group */
+
+position: absolute;
+left: 22.01%;
+right: 77.66%;
+top: 63.38%;
+bottom: 35.9%;
+
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.79px;
+height: 29.92px;
+left: 316.94px;
+top: 2606.65px;
+
+background: #F53C42;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 112.76px;
+height: 37.77px;
+left: 249.42px;
+top: 2576.56px;
+
+mix-blend-mode: multiply;
+border: 0.869783px solid #F53C42;
+
+
+/* Vector */
+
+position: absolute;
+width: 73.94px;
+height: 61.58px;
+left: 265.58px;
+top: 2503.78px;
+
+background: #FFA787;
+
+
+/* Vector */
+
+position: absolute;
+width: 42.71px;
+height: 18.77px;
+left: 287.96px;
+top: 2503.78px;
+
+background: #FF8D69;
+
+
+/* Vector */
+
+position: absolute;
+width: 7.34px;
+height: 14.03px;
+left: 329.72px;
+top: 2524px;
+
+background: #FFA787;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 7.34px;
+height: 15.41px;
+left: 268.21px;
+top: 2525.19px;
+
+background: #FFA787;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.91px;
+height: 8.04px;
+left: 298.98px;
+top: 2531.7px;
+
+background: #FF8D69;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 16.65px;
+height: 4.81px;
+left: 311.21px;
+top: 2513.25px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 16.49px;
+height: 5.15px;
+left: 276.1px;
+top: 2513.96px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 21.4px;
+height: 21.45px;
+left: 274.89px;
+top: 2518.38px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 21.4px;
+height: 21.45px;
+left: 308.51px;
+top: 2517.44px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.67px;
+height: 2.02px;
+left: 295.55px;
+top: 2526.83px;
+
+background: #FFFFFF;
+
+
+/* Group 9074 */
+
+position: absolute;
+width: 264px;
+height: 209px;
+left: 175px;
+top: 2666px;
+
+
+
+/* Javar Saripun */
+
+position: absolute;
+width: 229px;
+height: 48px;
+left: 175px;
+top: 2666px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #262626;
+
+
+
+/* A man who is ideal for all women. Javar is very handsome and attractive with a very friendly and kind nature. Javar is also a person who excels in the field of music. */
+
+position: absolute;
+width: 264px;
+height: 145px;
+left: 175px;
+top: 2730px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #727272;
+
+
+
+/* Group 9077 */
+
+position: absolute;
+width: 328px;
+height: 521px;
+left: 519px;
+top: 2466px;
+
+
+
+/* Group 9070 */
+
+position: absolute;
+width: 328px;
+height: 521px;
+left: 519px;
+top: 2466px;
+
+filter: drop-shadow(8.69783px 13.9165px 46.9683px rgba(0, 0, 0, 0.06));
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 328px;
+height: 521px;
+left: 519px;
+top: 2466px;
+
+background: #FFFFFF;
+opacity: 0.9;
+border-radius: 20.8748px;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 328px;
+height: 247.02px;
+left: 519px;
+top: 2466px;
+
+background: #B3A3FF;
+opacity: 0.9;
+border-radius: 20.8748px 20.8748px 0px 0px;
+
+
+/* Mask Group */
+
+position: absolute;
+width: 328px;
+height: 247.02px;
+left: 519px;
+top: 2466px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 328px;
+height: 247.02px;
+left: 519px;
+top: 2466px;
+
+background: #B3A3FF;
+opacity: 0.9;
+border-radius: 20.8748px 20.8748px 0px 0px;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 159.35px;
+height: 184.39px;
+left: 603.17px;
+top: 2542.54px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 41.89%;
+right: 47.05%;
+top: 61.82%;
+bottom: 33.7%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 123.06px;
+height: 118.71px;
+left: 616.97px;
+top: 2544.5px;
+
+background: #490D0D;
+
+
+/* Vector */
+
+position: absolute;
+width: 58.23px;
+height: 76.92px;
+left: 655.76px;
+top: 2562.47px;
+
+background: #FFA787;
+
+
+/* Group */
+
+position: absolute;
+left: 48.45%;
+right: 50.02%;
+top: 62.39%;
+bottom: 36.87%;
+
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 22.03px;
+height: 30.68px;
+left: 697.63px;
+top: 2566.04px;
+
+background: #FFA787;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Group */
+
+position: absolute;
+left: 44.92%;
+right: 51.65%;
+top: 62.08%;
+bottom: 36.5%;
+
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 49.5px;
+height: 58.53px;
+left: 646.8px;
+top: 2553.32px;
+
+background: #FFA787;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 29.47px;
+height: 14.5px;
+left: 673.84px;
+top: 2556.67px;
+
+background: #490D0D;
+
+
+/* Vector */
+
+position: absolute;
+width: 123.55px;
+height: 132.29px;
+left: 616.49px;
+top: 2544.5px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 41.85px;
+height: 56.7px;
+left: 661.47px;
+top: 2622.14px;
+
+background: #FFA787;
+
+
+/* Vector */
+
+position: absolute;
+width: 28.02px;
+height: 8.77px;
+left: 669.09px;
+top: 2633.25px;
+
+background: #FFA787;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 145.98px;
+height: 73.78px;
+left: 613.65px;
+top: 2653.05px;
+
+background: #FFBA55;
+
+
+/* Vector */
+
+position: absolute;
+width: 50.66px;
+height: 17.64px;
+left: 659.34px;
+top: 2653.06px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 19.23px;
+height: 39.41px;
+left: 702.52px;
+top: 2647.87px;
+
+background: #FFBA55;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 46.29px;
+height: 14.21px;
+left: 664.73px;
+top: 2695.87px;
+
+background: #FFBA55;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 53.22px;
+height: 73.82px;
+left: 708.46px;
+top: 2653.11px;
+
+background: #EC5640;
+
+
+/* Vector */
+
+position: absolute;
+width: 52.52px;
+height: 73.82px;
+left: 710px;
+top: 2653.01px;
+
+background: #EC5640;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 55.39px;
+height: 33.49px;
+left: 603.17px;
+top: 2693.34px;
+
+background: #376F92;
+
+
+/* Group */
+
+position: absolute;
+left: 44.95%;
+right: 54.8%;
+top: 65.21%;
+bottom: 34.2%;
+
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 3.6px;
+height: 24.51px;
+left: 647.28px;
+top: 2681.88px;
+
+background: #FFBA55;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 23.07px;
+height: 33.25px;
+left: 695.94px;
+top: 2635.03px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 43.26px;
+height: 42.8px;
+left: 699px;
+top: 2617.62px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 10.69px;
+height: 22.72px;
+left: 711.01px;
+top: 2594.9px;
+
+background: #FFA787;
+
+
+/* Vector */
+
+position: absolute;
+width: 40.29px;
+height: 92.01px;
+left: 655.91px;
+top: 2559.64px;
+
+background: #C47076;
+
+
+/* Vector */
+
+position: absolute;
+width: 36.06px;
+height: 8.36px;
+left: 662.15px;
+top: 2542.54px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 29.84px;
+height: 86.67px;
+left: 617.86px;
+top: 2573.59px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 24.22px;
+height: 74.42px;
+left: 724.36px;
+top: 2588.93px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 25.5px;
+height: 35.27px;
+left: 700.19px;
+top: 2551.18px;
+
+background: #C47076;
+
+
+/* Vector */
+
+position: absolute;
+width: 11.77px;
+height: 23.11px;
+left: 710.61px;
+top: 2559.07px;
+
+background: #C47076;
+
+
+/* Vector */
+
+position: absolute;
+width: 7.54px;
+height: 8.98px;
+left: 678.76px;
+top: 2607.4px;
+
+background: #FF8D69;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.72px;
+height: 15.98px;
+left: 712.94px;
+top: 2596.72px;
+
+background: #FF8D69;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 14.74px;
+height: 9.58px;
+left: 608.39px;
+top: 2707.91px;
+
+background: #376F92;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 53.04px;
+height: 32.38px;
+left: 605.51px;
+top: 2693.34px;
+
+background: #376F92;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 7.54px;
+height: 47.64px;
+left: 732.58px;
+top: 2678.84px;
+
+background: #376F92;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 2.25px;
+height: 2.25px;
+left: 701.39px;
+top: 2615.26px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 18.73px;
+height: 6.03px;
+left: 693.95px;
+top: 2587.25px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 18.73px;
+height: 6.03px;
+left: 657.33px;
+top: 2586.15px;
+
+background: #5E1212;
+
+
+/* Group 9075 */
+
+position: absolute;
+width: 264px;
+height: 209px;
+left: 551px;
+top: 2746px;
+
+
+
+/* Fausiah Fera */
+
+position: absolute;
+width: 208px;
+height: 48px;
+left: 551px;
+top: 2746px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #262626;
+
+
+
+/* Fera is a student from one of the famous universities in Tokyo and she is a very famous and very beautiful woman. */
+
+position: absolute;
+width: 264px;
+height: 145px;
+left: 551px;
+top: 2810px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #727272;
+
+
+
+/* Group 9078 */
+
+position: absolute;
+width: 328px;
+height: 521px;
+left: 895px;
+top: 2546px;
+
+
+
+/* Group 9071 */
+
+position: absolute;
+width: 328px;
+height: 521px;
+left: 895px;
+top: 2546px;
+
+filter: drop-shadow(8.69783px 13.9165px 46.9683px rgba(0, 0, 0, 0.06));
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 328px;
+height: 521px;
+left: 895px;
+top: 2546px;
+
+background: #FFFFFF;
+opacity: 0.9;
+border-radius: 20.8748px;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 328px;
+height: 247.02px;
+left: 895px;
+top: 2546px;
+
+background: #FFD492;
+opacity: 0.5;
+border-radius: 20.8748px 20.8748px 0px 0px;
+
+
+/* Mask Group */
+
+position: absolute;
+width: 328px;
+height: 247.02px;
+left: 895px;
+top: 2546px;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 328px;
+height: 247.02px;
+left: 895px;
+top: 2546px;
+
+background: #FFD492;
+opacity: 0.9;
+border-radius: 20.8748px 20.8748px 0px 0px;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 176.95px;
+height: 177.44px;
+left: 970.49px;
+top: 2629.5px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 67.4%;
+right: 20.32%;
+top: 63.93%;
+bottom: 31.75%;
+
+
+
+/* Layer 1 */
+
+position: absolute;
+left: 67.4%;
+right: 20.32%;
+top: 63.93%;
+bottom: 31.75%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 67.4%;
+right: 20.32%;
+top: 63.93%;
+bottom: 31.75%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 85.33px;
+height: 93.32px;
+left: 970.49px;
+top: 2702.05px;
+
+background: #FFA787;
+
+
+/* Group */
+
+position: absolute;
+left: 72.01%;
+right: 26.68%;
+top: 65.77%;
+bottom: 33.36%;
+
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 18.87px;
+height: 35.5px;
+left: 1036.96px;
+top: 2705.32px;
+
+background: #FFA787;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 77.82px;
+height: 82.31px;
+left: 1033.43px;
+top: 2656.48px;
+
+background: #FFA787;
+
+
+/* Group */
+
+position: absolute;
+left: 71.61%;
+right: 23.47%;
+top: 64.46%;
+bottom: 34.51%;
+
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 70.97px;
+height: 42.15px;
+left: 1031.11px;
+top: 2651.34px;
+
+background: #FFA787;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 27.38px;
+height: 26.19px;
+left: 1112.73px;
+top: 2773.81px;
+
+background: #27848B;
+
+
+/* Vector */
+
+position: absolute;
+width: 112.89px;
+height: 72.1px;
+left: 1027.22px;
+top: 2734.83px;
+
+background: #D2F1F9;
+
+
+/* Vector */
+
+position: absolute;
+width: 39.36px;
+height: 12.72px;
+left: 1039.11px;
+top: 2751.17px;
+
+background: #D2F1F9;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 48.67px;
+height: 67.45px;
+left: 1053px;
+top: 2714.49px;
+
+background: #FFA787;
+
+
+/* Vector */
+
+position: absolute;
+width: 42.33px;
+height: 33.12px;
+left: 1088.77px;
+top: 2773.82px;
+
+background: #FFA787;
+
+
+/* Vector */
+
+position: absolute;
+width: 26.73px;
+height: 32.44px;
+left: 1104.37px;
+top: 2774.5px;
+
+background: #FFA787;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 89.35px;
+height: 77.66px;
+left: 1025.51px;
+top: 2637.05px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 55.75px;
+height: 115.32px;
+left: 1091.69px;
+top: 2629.66px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 44.2px;
+height: 58.73px;
+left: 1026.09px;
+top: 2655.45px;
+
+background: #C47076;
+
+
+/* Vector */
+
+position: absolute;
+width: 26.16px;
+height: 44.13px;
+left: 1043.84px;
+top: 2660.69px;
+
+background: #C47076;
+
+
+/* Vector */
+
+position: absolute;
+width: 10.93px;
+height: 25.84px;
+left: 1093.43px;
+top: 2685.28px;
+
+background: #FFA787;
+
+
+/* Vector */
+
+position: absolute;
+width: 7.09px;
+height: 18.54px;
+left: 1095.06px;
+top: 2688.95px;
+
+background: #FFA787;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.1px;
+height: 15.57px;
+left: 1091.69px;
+top: 2641.01px;
+
+background: #FFBA55;
+
+
+/* Vector */
+
+position: absolute;
+width: 21.69px;
+height: 51.03px;
+left: 1086.45px;
+top: 2676.7px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 11.31px;
+height: 27.94px;
+left: 1083.77px;
+top: 2678px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 20.47px;
+height: 28.46px;
+left: 1102.1px;
+top: 2629.5px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.03px;
+height: 22.03px;
+left: 1125.86px;
+top: 2651.13px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 8.68px;
+height: 22.73px;
+left: 1124.88px;
+top: 2678px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 19.7px;
+height: 8.6px;
+left: 1047.09px;
+top: 2640.89px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 17.03px;
+height: 31.12px;
+left: 1102.53px;
+top: 2742.69px;
+
+background: #D2F1F9;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 38.43px;
+height: 65.18px;
+left: 1101.68px;
+top: 2734.83px;
+
+background: #D2F1F9;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 29.34px;
+height: 28.78px;
+left: 1072.34px;
+top: 2714.49px;
+
+background: #FFA787;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.64px;
+height: 13.29px;
+left: 1053.84px;
+top: 2709.38px;
+
+background: #FF8D69;
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 27.4px;
+height: 27.46px;
+left: 1083.65px;
+top: 2682.75px;
+
+background: #F53C42;
+
+
+/* Vector */
+
+position: absolute;
+width: 44.45px;
+height: 46.48px;
+left: 1053.74px;
+top: 2640.83px;
+
+background: #F53C42;
+
+
+/* Vector */
+
+position: absolute;
+width: 0.95px;
+height: 1.45px;
+left: 1031.11px;
+top: 2731.51px;
+
+background: #FFA787;
+
+
+/* Vector */
+
+position: absolute;
+width: 10.09px;
+height: 10.44px;
+left: 1031.11px;
+top: 2733.44px;
+
+background: #FFA787;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 0.53px;
+height: 0.77px;
+left: 1032.89px;
+top: 2708.99px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 7.9px;
+height: 4.49px;
+left: 1037.45px;
+top: 2702.23px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 18.64px;
+height: 7.57px;
+left: 1061.35px;
+top: 2688.9px;
+
+background: #5E1212;
+
+
+/* Vector */
+
+position: absolute;
+width: 18.34px;
+height: 18.39px;
+left: 1089.01px;
+top: 2688.44px;
+
+background: #F53C42;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 18.34px;
+height: 18.39px;
+left: 1089.44px;
+top: 2687.44px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 34.01px;
+height: 41.92px;
+left: 1064.17px;
+top: 2640.83px;
+
+background: #F53C42;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 12.84px;
+height: 24.95px;
+left: 1098.21px;
+top: 2682.78px;
+
+background: #F53C42;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 8.93px;
+height: 16.5px;
+left: 1127.04px;
+top: 2659.94px;
+
+background: #C47076;
+
+
+/* Vector */
+
+position: absolute;
+width: 2.75px;
+height: 6.61px;
+left: 1137.55px;
+top: 2668.84px;
+
+background: #C47076;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.1px;
+height: 14.26px;
+left: 1091.69px;
+top: 2641.01px;
+
+background: #FFBA55;
+mix-blend-mode: multiply;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+width: 38.8px;
+height: 96.97px;
+left: 1061.19px;
+top: 2709.96px;
+
+background: #FFBA55;
+
+
+/* Vector */
+
+position: absolute;
+width: 8.72px;
+height: 80.19px;
+left: 1044.78px;
+top: 2726.75px;
+
+background: #EFA94B;
+
+
+/* Group 9076 */
+
+position: absolute;
+width: 264px;
+height: 209px;
+left: 936px;
+top: 2828px;
+
+
+
+/* Shreryl Olap */
+
+position: absolute;
+width: 200px;
+height: 48px;
+left: 936px;
+top: 2828px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #262626;
+
+
+
+/* Olap is a very sweet woman with curly and blonde hair which makes her very beautiful and sweet. He works in the field of music, which is famous in Indonesia. */
+
+position: absolute;
+width: 264px;
+height: 145px;
+left: 936px;
+top: 2892px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #727272;
+
+---------------------------------------
+
+/* Content */
+
+position: absolute;
+width: 1440px;
+height: 582px;
+left: 15px;
+top: 3182px;
+
+
+
+/* Rectangle 3986 */
+
+position: absolute;
+width: 1440px;
+height: 582px;
+left: 15px;
+top: 3182px;
+
+background: #FFFFFF;
+
+
+/* Group 9555 */
+
+position: absolute;
+width: 1200px;
+height: 486px;
+left: 135px;
+top: 3230px;
+
+
+
+/* Group 9025 */
+
+position: absolute;
+width: 1200px;
+height: 278px;
+left: 135px;
+top: 3438px;
+
+
+
+/* Group 867 */
+
+position: absolute;
+width: 378px;
+height: 278px;
+left: 545px;
+top: 3438px;
+
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 378px;
+height: 278px;
+left: 545px;
+top: 3438px;
+
+background: #FFFFFF;
+box-shadow: 10px 24px 54px rgba(0, 0, 0, 0.06);
+border-radius: 16px;
+
+
+/* Group 9053 */
+
+position: absolute;
+width: 108px;
+height: 20px;
+left: 569px;
+top: 3672px;
+
+
+
+/* Group 862 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 569px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 569px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 571.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 863 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 591px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 591px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 593.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 864 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 613px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 613px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 615.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 865 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 635px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 635px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 637.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 866 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 657px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 657px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 659.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 9051 */
+
+position: absolute;
+width: 151px;
+height: 42px;
+left: 569px;
+top: 3470px;
+
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 569px;
+top: 3473px;
+
+background: #C4C4C4;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 569px;
+top: 3473px;
+
+background: rgba(0, 0, 0, 0.2);
+
+
+/* Group 45 */
+
+position: absolute;
+width: 103px;
+height: 42px;
+left: 617px;
+top: 3470px;
+
+
+
+/* Sizuka engkol */
+
+position: absolute;
+width: 103px;
+height: 21px;
+left: 617px;
+top: 3470px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+letter-spacing: 0.5px;
+
+color: #232323;
+
+
+
+/* Indonesia */
+
+position: absolute;
+width: 63px;
+height: 18px;
+left: 617px;
+top: 3494px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.5px;
+
+color: #777777;
+
+
+
+/* Very interesting services are provided to customers, access is very fast and we can also see the development of our partners. and the information provided is accurate and genuine. */
+
+position: absolute;
+width: 330px;
+height: 120px;
+left: 569px;
+top: 3528px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+letter-spacing: 0.5px;
+
+color: #727272;
+
+
+
+/* Group 868 */
+
+position: absolute;
+width: 378px;
+height: 278px;
+left: 957px;
+top: 3438px;
+
+
+
+/* Rectangle 21 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 378px;
+height: 278px;
+left: 957px;
+top: 3438px;
+
+background: #FFFFFF;
+border: 1px solid #DDDDDD;
+border-radius: 16px;
+
+
+/* Group 9054 */
+
+position: absolute;
+width: 108px;
+height: 20px;
+left: 981px;
+top: 3672px;
+
+
+
+/* Group 862 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 981px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 981px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 983.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 863 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1003px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1003px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 1005.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 864 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1025px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1025px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 1027.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 865 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1047px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1047px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 1049.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 866 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1069px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1069px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 1071.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 9055 */
+
+position: absolute;
+width: 176px;
+height: 42px;
+left: 981px;
+top: 3470px;
+
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 981px;
+top: 3473px;
+
+background: #C4C4C4;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 981px;
+top: 3473px;
+
+background: rgba(0, 0, 0, 0.2);
+
+
+/* Group 45 */
+
+position: absolute;
+width: 128px;
+height: 42px;
+left: 1029px;
+top: 3470px;
+
+
+
+/* Gundam gandim */
+
+position: absolute;
+width: 128px;
+height: 21px;
+left: 1029px;
+top: 3470px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+letter-spacing: 0.5px;
+
+color: #232323;
+
+
+
+/* Bulgarian */
+
+position: absolute;
+width: 62px;
+height: 18px;
+left: 1029px;
+top: 3494px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.5px;
+
+color: #AAAAAA;
+
+
+
+/* It's crazy that this application can make me find my soul mate very easily and quickly. the information contained in this buceen is very accurate and really real, not a hoax */
+
+position: absolute;
+width: 330px;
+height: 120px;
+left: 981px;
+top: 3528px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+letter-spacing: 0.5px;
+
+color: #727272;
+
+
+
+/* Group 869 */
+
+position: absolute;
+width: 378px;
+height: 278px;
+left: 135px;
+top: 3438px;
+
+
+
+/* Rectangle 21 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 378px;
+height: 278px;
+left: 135px;
+top: 3438px;
+
+background: #FFFFFF;
+border: 1px solid #DDDDDD;
+border-radius: 16px;
+
+
+/* Group 9052 */
+
+position: absolute;
+width: 108px;
+height: 20px;
+left: 159px;
+top: 3672px;
+
+
+
+/* Group 862 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 159px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 159px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 161.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 863 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 181px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 181px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 183.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 864 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 203px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 203px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 205.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 865 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 225px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 225px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 227.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* Group 866 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 247px;
+top: 3672px;
+
+
+
+/* Rectangle 583 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 247px;
+top: 3672px;
+
+background: #C4C4C4;
+opacity: 0;
+
+
+/* Star 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 249.5px;
+top: 3674.5px;
+
+background: #FDC350;
+
+
+/* This Bucheen is so cool, I found the partner I wanted. and it's very easy to use and steady for bcheen. cheers and hopefully many other people can find their partner here */
+
+position: absolute;
+width: 330px;
+height: 120px;
+left: 159px;
+top: 3528px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+letter-spacing: 0.5px;
+
+color: #727272;
+
+
+
+/* Group 9050 */
+
+position: absolute;
+width: 169px;
+height: 42px;
+left: 159px;
+top: 3470px;
+
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 159px;
+top: 3473px;
+
+background: #C4C4C4;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 159px;
+top: 3473px;
+
+background: rgba(0, 0, 0, 0.2);
+
+
+/* Group 45 */
+
+position: absolute;
+width: 121px;
+height: 42px;
+left: 207px;
+top: 3470px;
+
+
+
+/* Tasha Wijayanti */
+
+position: absolute;
+width: 121px;
+height: 21px;
+left: 207px;
+top: 3470px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+letter-spacing: 0.5px;
+
+color: #232323;
+
+
+
+/* Curug */
+
+position: absolute;
+width: 40px;
+height: 18px;
+left: 207px;
+top: 3494px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.5px;
+
+color: #AAAAAA;
+
+
+
+/* Group 9012 */
+
+position: absolute;
+width: 504px;
+height: 160px;
+left: 483px;
+top: 3230px;
+
+
+
+/* What Our Customers Have To Say */
+
+position: absolute;
+width: 428px;
+height: 112px;
+left: 521px;
+top: 3230px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 56px;
+/* or 140% */
+text-align: center;
+
+color: #262626;
+
+
+
+/* Here's what our customers say with Bucheen */
+
+position: absolute;
+width: 504px;
+height: 32px;
+left: 483px;
+top: 3358px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+text-align: center;
+
+color: #727272;
+
+---------------------------------------/* Footer */
+
+position: absolute;
+width: 1440px;
+height: 307px;
+left: -6px;
+top: 3808px;
+
+
+
+/* Footer */
+
+position: absolute;
+width: 1440px;
+height: 307px;
+left: 0px;
+top: 0px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Rectangle 3981 */
+
+position: absolute;
+width: 1440px;
+height: 307px;
+left: 0px;
+top: 0px;
+
+background: #FFF1EF;
+opacity: 0.9;
+
+
+/* Group 9550 */
+
+position: absolute;
+width: 624px;
+height: 195px;
+left: 691px;
+top: 56px;
+
+
+
+/* Group 9499 */
+
+position: absolute;
+width: 139px;
+height: 155px;
+left: 898px;
+top: 56px;
+
+
+
+/* Product */
+
+position: absolute;
+width: 73px;
+height: 27px;
+left: 898px;
+top: 56px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #FF806E;
+
+
+
+/* Group 9498 */
+
+position: absolute;
+width: 139px;
+height: 104px;
+left: 898px;
+top: 107px;
+
+
+
+/* Task Mangement */
+
+position: absolute;
+width: 139px;
+height: 24px;
+left: 898px;
+top: 107px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #727272;
+
+
+
+/* Service */
+
+position: absolute;
+width: 58px;
+height: 24px;
+left: 898px;
+top: 147px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #727272;
+
+
+
+/* Task Schedule */
+
+position: absolute;
+width: 115px;
+height: 24px;
+left: 898px;
+top: 187px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #727272;
+
+
+
+/* Group 9544 */
+
+position: absolute;
+width: 119px;
+height: 195px;
+left: 691px;
+top: 56px;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 83px;
+height: 27px;
+left: 691px;
+top: 56px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #FF806E;
+
+
+
+/* Group 9500 */
+
+position: absolute;
+width: 119px;
+height: 144px;
+left: 691px;
+top: 107px;
+
+
+
+/* Our people */
+
+position: absolute;
+width: 89px;
+height: 24px;
+left: 691px;
+top: 107px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #727272;
+
+
+
+/* Our categories */
+
+position: absolute;
+width: 119px;
+height: 24px;
+left: 691px;
+top: 147px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #727272;
+
+
+
+/* Contact us */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: 691px;
+top: 187px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #727272;
+
+
+
+/* Testimonial */
+
+position: absolute;
+width: 93px;
+height: 24px;
+left: 691px;
+top: 227px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #727272;
+
+
+
+/* Group 9549 */
+
+position: absolute;
+width: 211px;
+height: 195px;
+left: 1104px;
+top: 56px;
+
+
+
+/* Contact us */
+
+position: absolute;
+width: 102px;
+height: 27px;
+left: 1104px;
+top: 56px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #FF806E;
+
+
+
+/* Group 9545 */
+
+position: absolute;
+width: 158px;
+height: 24px;
+left: 1104px;
+top: 107px;
+
+
+
+/* (021) 3258 4930 */
+
+position: absolute;
+width: 126px;
+height: 24px;
+left: 1136px;
+top: 107px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #727272;
+
+
+
+/* Call */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1104px;
+top: 111px;
+
+
+
+/* Iconly/Light-Outline/Call */
+
+position: absolute;
+left: 8.34%;
+right: 6.25%;
+top: 8.33%;
+bottom: 6.25%;
+
+
+
+/* Call */
+
+position: absolute;
+left: 8.34%;
+right: 6.25%;
+top: 8.33%;
+bottom: 6.25%;
+
+
+
+/* Fill-1 */
+
+position: absolute;
+left: 8.34%;
+right: 6.25%;
+top: 8.33%;
+bottom: 6.25%;
+
+background: #727272;
+
+
+/* Group 9546 */
+
+position: absolute;
+width: 173px;
+height: 24px;
+left: 1104px;
+top: 147px;
+
+
+
+/* Pokan@Hola.com */
+
+position: absolute;
+width: 141px;
+height: 24px;
+left: 1136px;
+top: 147px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #727272;
+
+
+
+/* Message */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1104px;
+top: 151px;
+
+
+
+/* Iconly/Light-Outline/Message */
+
+position: absolute;
+left: 4.17%;
+right: 6.25%;
+top: 8.33%;
+bottom: 10.42%;
+
+
+
+/* Message */
+
+position: absolute;
+left: 4.17%;
+right: 6.25%;
+top: 8.33%;
+bottom: 10.42%;
+
+
+
+/* Combined-Shape */
+
+position: absolute;
+left: 4.17%;
+right: 6.25%;
+top: 8.33%;
+bottom: 10.42%;
+
+background: #727272;
+
+
+/* Group 9548 */
+
+position: absolute;
+width: 211px;
+height: 54px;
+left: 1104px;
+top: 197px;
+
+
+
+/* Group 9547 */
+
+position: absolute;
+width: 179px;
+height: 54px;
+left: 1136px;
+top: 197px;
+
+
+
+/* Sukabumi, Jawa Barat */
+
+position: absolute;
+width: 179px;
+height: 24px;
+left: 1136px;
+top: 197px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #727272;
+
+
+
+/* Indonesia, IDN */
+
+position: absolute;
+width: 113px;
+height: 24px;
+left: 1136px;
+top: 227px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #727272;
+
+
+
+/* Location */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1104px;
+top: 201px;
+
+
+
+/* Iconly/Light-Outline/Location */
+
+position: absolute;
+left: 16.66%;
+right: 14.59%;
+top: 8.33%;
+bottom: 10.42%;
+
+
+
+/* Location */
+
+position: absolute;
+left: 16.66%;
+right: 14.59%;
+top: 8.33%;
+bottom: 10.42%;
+
+
+
+/* Combined-Shape */
+
+position: absolute;
+left: 16.66%;
+right: 14.59%;
+top: 8.33%;
+bottom: 10.42%;
+
+background: #727272;
+
+
+/* Group 9551 */
+
+position: absolute;
+width: 443px;
+height: 130px;
+left: 120px;
+top: 89px;
+
+
+
+/* The most accurate and simplest time tracking for all of you. and we have been serving for more than 4 years and have made you happy */
+
+position: absolute;
+width: 443px;
+height: 84px;
+left: 120px;
+top: 135px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+color: #727272;
+
+
+
+/* Bucheen */
+
+position: absolute;
+width: 109px;
+height: 30px;
+left: 120px;
+top: 89px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+
+color: #776BB3;
+
