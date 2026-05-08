@@ -8,14 +8,14 @@ const Hero = () => {
           {/* Left side - text area */}
           <div className="space-y-8">
             {}
-            <h1 className="font-semibold text-[#262626]" style={{ fontSize: '56px', lineHeight: '84px', fontFamily: 'Poppins' }}>
+            <h1 className="font-semibold text-[56px] leading-[84px] text-[#262626]">
               Find <span className="text-[#FF725E]">Match Now</span><br />
               and Grow Your<br />
               Feelings
             </h1>
             
             {}
-            <p className="text-[#727272]" style={{ fontSize: '16px', lineHeight: '32px', width: '527px', fontFamily: 'Poppins' }}>
+            <p className="text-[#727272]" style={{ fontSize: '16px', lineHeight: '32px', width: '527px' }}>
               There are so many platforms from this Pokan to make a task manager manage all your time, the data needed is very useful.<br />
               and we have it all to get you to be successful
             </p>
@@ -43,7 +43,18 @@ const Hero = () => {
               
               {}
               <div className="ml-auto">
-                <button className="bg-[#FF725E] text-white px-6 py-2 rounded-xl font-medium hover:bg-[#FF834F] transition-colors" style={{ fontFamily: 'Poppins' }}>
+                <button 
+                  className="bg-[#FF725E] text-white hover:bg-[#FF834F] transition-colors flex items-center justify-center"
+                  style={{ 
+                    width: '112px',
+                    height: '48px',
+                    fontSize: '14px',
+                    lineHeight: '100%',
+                    borderRadius: '8px',
+                    fontWeight: '500',
+                    letterSpacing: '0%'
+                  }}
+                >
                   Find Now
                 </button>
               </div>
