@@ -1,17 +1,11 @@
-export default function App() {
+import Navbar from './components/layout/Navbar'
+
+function App() {
   return (
-    <div
-      style={{
-        height: "100vh",
-        background: "#FFB9AF",
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-        fontSize: "32px",
-        fontWeight: "bold",
-      }}
-    >
-      APP IS WORKING
+    <div>
+      <Navbar />
     </div>
-  );
+  )
 }
+
+export default App
