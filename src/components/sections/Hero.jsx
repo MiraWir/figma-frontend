@@ -1,3 +1,5 @@
+import heroImage from "../../assets/images/hero-ui.png";
+
 const Hero = () => {
   return (
     <section className="w-full h-[859px] bg-[#FFB9AF]/10 flex items-center justify-center">
@@ -48,9 +50,13 @@ const Hero = () => {
             </div>
           </div>
           
-          {}
+          {/*image*/}
           <div className="hidden lg:block">
-            <div className="bg-white/20 backdrop-blur-sm rounded-2xl w-full h-96"></div>
+            <img 
+              src={heroImage} 
+              alt="Hero UI" 
+              className="w-full h-auto max-w-full object-contain"
+            />
           </div>
         </div>
       </div>
