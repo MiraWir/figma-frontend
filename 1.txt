@@ -63,7 +63,7 @@ top: 927px;
 
 
 
-/* Ellipse 4 */
+/* Ellipse 4 */  (CIRCLEEEEEESSSSSS)
 
 box-sizing: border-box;
 
