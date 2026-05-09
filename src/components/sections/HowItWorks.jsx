@@ -1,3 +1,7 @@
+import searchIcon from "../../assets/icons/search.png";
+import heartIcon from "../../assets/icons/heart.png";
+import userIcon from "../../assets/icons/user.png";
+
 const HowItWorks = () => {
   return (
     <section className="w-full h-[670px] bg-white flex items-center justify-center relative border border-black">
@@ -13,10 +17,24 @@ const HowItWorks = () => {
           <div className="flex items-start gap-4">
             {/*yuvarlaklar*/}
             <div 
-              className="w-16 h-16 rounded-full flex items-center justify-center"
-              style={{ backgroundColor: '#FF834F', opacity: 0.3 }}
+              className="relative flex-shrink-0"
+              style={{ 
+                width: '64px',
+                height: '64px',
+                minWidth: '64px',
+                minHeight: '64px'
+              }}
             >
-              <span className="text-[#262626] font-semibold text-xl">1</span>
+              <div 
+                className="absolute inset-0 rounded-full"
+                style={{ 
+                  backgroundColor: '#FF834F',
+                  opacity: 0.3
+                }}
+              />
+              <div className="absolute inset-0 flex items-center justify-center" style={{ zIndex: 2 }}>
+                <img src={searchIcon} alt="Search" style={{ width: '24px', height: '24px' }} />
+              </div>
             </div>
             {/*txt*/}
             <div>
@@ -36,10 +54,24 @@ const HowItWorks = () => {
           <div className="flex items-start gap-4">
             {/*yuvarlaklar*/}
             <div 
-              className="w-16 h-16 rounded-full flex items-center justify-center"
-              style={{ backgroundColor: '#FF834F', opacity: 0.3 }}
+              className="relative flex-shrink-0"
+              style={{ 
+                width: '64px',
+                height: '64px',
+                minWidth: '64px',
+                minHeight: '64px'
+              }}
             >
-              <span className="text-[#262626] font-semibold text-xl">2</span>
+              <div 
+                className="absolute inset-0 rounded-full"
+                style={{ 
+                  backgroundColor: '#FF834F',
+                  opacity: 0.3
+                }}
+              />
+              <div className="absolute inset-0 flex items-center justify-center" style={{ zIndex: 2 }}>
+                <img src={heartIcon} className="w-[24px] h-[24px]" alt="Heart" />
+              </div>
             </div>
             <div>
               <p 
@@ -56,12 +88,26 @@ const HowItWorks = () => {
           
           {/*3*/}
           <div className="flex items-start gap-4">
-            {/*yuvarlaklar -> ikonları napıcam?? BEN NE BILIYIM*/}
+            {/*yuvarlaklar*/}
             <div 
-              className="w-16 h-16 rounded-full flex items-center justify-center"
-              style={{ backgroundColor: '#FF834F', opacity: 0.3 }}
+              className="relative flex-shrink-0"
+              style={{ 
+                width: '64px',
+                height: '64px',
+                minWidth: '64px',
+                minHeight: '64px'
+              }}
             >
-              <span className="text-[#262626] font-semibold text-xl">3</span>
+              <div 
+                className="absolute inset-0 rounded-full"
+                style={{ 
+                  backgroundColor: '#FF834F',
+                  opacity: 0.3
+                }}
+              />
+              <div className="absolute inset-0 flex items-center justify-center" style={{ zIndex: 2 }}>
+                <img src={userIcon} className="w-[24px] h-[24px]" alt="User" />
+              </div>
             </div>
             {/*txt*/}
             <div>
