@@ -1,3 +1,5 @@
+import starIcon from '../../assets/icons/star.png';
+
 const testimonials = [
   {
     name: 'Tasha Wijayanti',
@@ -19,14 +21,7 @@ const testimonials = [
   },
 ];
 
-const Star = () => (
-  <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path
-      d="M7.5 0.5L9.557 5.408L14.828 6.232L10.914 9.535L11.814 14.78L7.5 12.042L3.186 14.78L4.086 9.535L0.172 6.232L5.443 5.408L7.5 0.5Z"
-      fill="#FDC350"
-    />
-  </svg>
-);
+
 
 const Testimonials = () => {
   return (
@@ -65,10 +60,8 @@ const Testimonials = () => {
                 </p>
 
                 <div className="mt-[18px] flex items-center gap-[16px]">
-                  {[new Array(5)].map((_, index) => (
-                    <div key={index} className="h-[20px] w-[20px] flex items-center justify-center">
-                      <Star />
-                    </div>
+                  {[...Array(5)].map((_, index) => (
+                    <img key={index} src={starIcon} alt="star" className="h-[20px] w-[20px]" />
                   ))}
                 </div>
               </div>

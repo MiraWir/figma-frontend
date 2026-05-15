@@ -3,6 +3,7 @@ import Features from '../components/sections/Features'
 import HowItWorks from '../components/sections/HowItWorks'
 import MostPopular from '../components/sections/MostPopular'
 import Testimonials from '../components/sections/Testimonials'
+import Footer from '../components/sections/Footer'
 
 const HomePage = () => {
   return (
@@ -12,6 +13,7 @@ const HomePage = () => {
       <HowItWorks />
       <MostPopular />
       <Testimonials />
+      <Footer />
     </div>
   )
 }
