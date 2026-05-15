@@ -3196,6 +3196,8 @@ top: 3230px;
 
 /* What Our Customers Have To Say */
 
+kolay burasi
+
 position: absolute;
 width: 428px;
 height: 112px;

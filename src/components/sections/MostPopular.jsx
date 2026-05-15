@@ -5,13 +5,10 @@ import img333 from "../../assets/images/333.png";
 
 const MostPopular = () => {
   return (
-    <section
-      className="absolute w-full h-[990px] bg-[#FFF8F7]"
-      style={{ top: 2077 }}
-    >
+    <section className="relative w-full h-[990px] bg-[#FFF8F7]">
       <div className="relative w-full h-full">
         <div className="absolute top-[96px] left-1/2 -translate-x-1/2 w-full max-w-[527px] text-center">
-          <h2 className="font-[Poppins] font-medium text-[40px] leading-[60px] text-[#000026]">
+          <h2 className="font-semibold text-[40px] leading-[60px] text-[#000026]">
             Most Popular In This Week
           </h2>
           <p className="mt-[16px] text-[16px] leading-[24px] text-[#727272]">
@@ -35,7 +32,7 @@ const MostPopular = () => {
               </div>
             </div>
             <div className="absolute top-[247px] left-0 w-full h-[209px] px-[32px] pt-[32px]">
-              <h3 className="font-[Poppins] font-semibold text-[32px] leading-[40px] text-[#000026]">
+              <h3 className="font-semibold text-[32px] leading-[40px] text-[#000026]">
                 Javar Saripun
               </h3>
               <p className="mt-[16px] text-[16px] leading-[24px] text-[#727272]">
@@ -59,7 +56,7 @@ const MostPopular = () => {
               </div>
             </div>
             <div className="absolute top-[247px] left-0 w-full h-[209px] px-[32px] pt-[32px]">
-              <h3 className="font-[Poppins] font-semibold text-[32px] leading-[40px] text-[#000026]">
+              <h3 className="font-semibold text-[32px] leading-[40px] text-[#000026]">
                 Fausiah Fera
               </h3>
               <p className="mt-[16px] text-[16px] leading-[24px] text-[#727272]">
@@ -83,7 +80,7 @@ const MostPopular = () => {
               </div>
             </div>
             <div className="absolute top-[247px] left-0 w-full h-[209px] px-[32px] pt-[32px]">
-              <h3 className="font-[Poppins] font-semibold text-[32px] leading-[40px] text-[#000026]">
+              <h3 className="font-semibold text-[32px] leading-[40px] text-[#000026]">
                 Shreryl Olap
               </h3>
               <p className="mt-[16px] text-[16px] leading-[24px] text-[#727272]">
