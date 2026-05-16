@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react';
 import starIcon from '../../assets/icons/star.png';
 
 const testimonials = [
@@ -21,53 +22,156 @@ const testimonials = [
   },
 ];
 
-
-
 const Testimonials = () => {
+  const [activeIndex, setActiveIndex] = useState(0);
+  const [isNarrow, setIsNarrow] = useState(false);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsNarrow(window.innerWidth < 1200);
+    };
+
+    handleResize();
+
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+
+  const nextSlide = () => {
+    setActiveIndex((prev) => Math.min(prev + 1, testimonials.length - 1));
+  };
+
+  const prevSlide = () => {
+    setActiveIndex((prev) => Math.max(prev - 1, 0));
+  };
+
   return (
-    <section className="relative w-full h-[582px] bg-white">
-      <div className="absolute left-1/2 top-[48px] h-[486px] w-[1200px] -translate-x-1/2">
-        <div className="absolute inset-x-0 top-0 h-[112px]">
-          <h2 className="mx-auto w-[428px] text-center font-semibold text-[40px] leading-[56px] text-[#262626]">
+    <section className="w-full min-h-[582px] bg-white pt-[48px] pb-[80px] overflow-hidden flex flex-col items-center">
+      <div className="w-full max-w-[1200px] px-4 md:px-0 flex flex-col items-center">
+        
+        <div className="w-full text-center mb-[48px]">
+          <h2 className="mx-auto max-w-[428px] w-full font-semibold text-[40px] leading-[56px] text-[#262626]">
             What Our Customers Have To Say
           </h2>
-          <p className="mt-[16px] mx-auto w-[504px] text-center font-normal text-[16px] leading-[32px] text-[#727272]">
-            Here's what our customers say with Bucheen
+          <p className="mt-[16px] mx-auto max-w-[504px] w-full font-normal text-[16px] leading-[32px] text-[#727272]">
+            {isNarrow ? (
+              <>
+                Here's what our customers say with <br /> Bucheen
+              </>
+            ) : (
+              "Here's what our customers say with Bucheen"
+            )}
           </p>
         </div>
 
-        <div className="absolute top-[208px] left-0 right-0 flex justify-center gap-[32px]">
-          {testimonials.map((item) => (
-            <div
-              key={item.name}
-              className="w-[378px] h-[278px] rounded-[16px] bg-white border border-[#DDDDDD] shadow-[10px_24px_54px_rgba(0,0,0,0.06)]"
-            >
-              <div className="px-[24px] pt-[24px]">
-                <div className="flex items-center gap-[16px]">
-                  <div className="h-[32px] w-[32px] rounded-full bg-[#C4C4C4]" />
-                  <div>
-                    <p className="font-medium text-[14px] leading-[21px] tracking-[0.5px] text-[#232323]">
-                      {item.name}
-                    </p>
-                    <p className="mt-[5px] font-normal text-[12px] leading-[18px] tracking-[0.5px] text-[#AAAAAA]">
-                      {item.location}
-                    </p>
+        {!isNarrow && (
+          <div className="w-full flex justify-center gap-[32px]">
+            {testimonials.map((item) => (
+              <div
+                key={item.name}
+                className="w-[378px] h-[278px] rounded-[16px] bg-white border border-[#DDDDDD] shadow-[10px_24px_54px_rgba(0,0,0,0.06)] flex-shrink-0"
+              >
+                <div className="px-[24px] pt-[24px]">
+                  <div className="flex items-center gap-[16px]">
+                    <div className="h-[32px] w-[32px] rounded-full bg-[#C4C4C4]" />
+                    <div>
+                      <p className="font-medium text-[14px] leading-[21px] tracking-[0.5px] text-[#232323]">
+                        {item.name}
+                      </p>
+                      <p className="mt-[5px] font-normal text-[12px] leading-[18px] tracking-[0.5px] text-[#AAAAAA]">
+                        {item.location}
+                      </p>
+                    </div>
+                  </div>
+
+                  <p className="mt-[18px] w-[330px] text-[16px] leading-[24px] text-[#727272]">
+                    {item.message}
+                  </p>
+
+                  <div className="mt-[18px] flex items-center gap-[16px]">
+                    {[new Array(5)].map((_, index) => (
+                      <img key={index} src={starIcon} alt="star" className="h-[20px] w-[20px]" />
+                                            
+                    ))}
                   </div>
                 </div>
+              </div>
+            ))}
+          </div>
+        )}
 
-                <p className="mt-[18px] w-[330px] text-[16px] leading-[24px] text-[#727272]">
-                  {item.message}
-                </p>
+        {isNarrow && (
+          <div className="w-full flex flex-col items-center">
+            {/*buna geri don olmazsa -> <div className="absolute top-[208px] left-0 right-0">*/}
+            <div className="w-full overflow-hidden">
+              <div
+                className="flex transition-transform duration-500 ease-in-out"
+                style={{
+                  transform: `translateX(-${activeIndex * 100}%)`,
+                }}
+              >
+                {testimonials.map((item) => (
+                  <div key={item.name} className="min-w-full flex justify-center">
+                    <div className="w-[90%] max-w-[378px] h-[278px] rounded-[16px] bg-white border border-[#DDDDDD] shadow-[10px_24px_54px_rgba(0,0,0,0.06)]">
+                      <div className="px-[24px] pt-[24px]">
+                        <div className="flex items-center gap-[16px]">
+                          <div className="h-[32px] w-[32px] rounded-full bg-[#C4C4C4]" />
+                          <div>
+                            <p className="font-medium text-[14px] leading-[21px] tracking-[0.5px] text-[#232323]">
+                              {item.name}
+                            </p>
+                            <p className="mt-[5px] font-normal text-[12px] leading-[18px] tracking-[0.5px] text-[#AAAAAA]">
+                              {item.location}
+                            </p>
+                          </div>
+                        </div>
+                        <p className="mt-[18px] text-[16px] leading-[24px] text-[#727272] line-clamp-4">
+                          {item.message}
+                        </p>
 
-                <div className="mt-[18px] flex items-center gap-[16px]">
-                  {[...Array(5)].map((_, index) => (
-                    <img key={index} src={starIcon} alt="star" className="h-[20px] w-[20px]" />
-                  ))}
-                </div>
+                        <div className="mt-[18px] flex items-center gap-[16px]">
+                          {[new Array(5)].map((_, index) => (
+                            <img
+                              key={index}
+                              src={starIcon}
+                              alt="star"
+                              className="h-[20px] w-[20px]"
+                            />
+                          ))}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                ))}
               </div>
             </div>
-          ))}
-        </div>
+
+             <div className="flex justify-center gap-4 mt-8"> {/* hadi simdi dene de goriyim CIK*/}
+              <button
+                onClick={prevSlide}
+                disabled={activeIndex === 0}
+                className={`w-10 h-10 rounded-full border border-[#FF725E] bg-white font-bold transition-all flex items-center justify-center ${
+                  activeIndex === 0 ? 'opacity-40 cursor-not-allowed' : 'text-[#FF725E] hover:bg-orange-50'
+                }`}
+                aria-label="Previous Testimonial"
+              >
+                ←
+              </button>
+
+              <button
+                onClick={nextSlide}
+                disabled={activeIndex === testimonials.length - 1}
+                className={`w-10 h-10 rounded-full bg-[#FF725E] font-bold transition-all flex items-center justify-center ${
+                  activeIndex === testimonials.length - 1 ? 'opacity-40 cursor-not-allowed' : 'text-white hover:bg-[#e66350]'
+                }`}
+                aria-label="Next Testimonial"
+              >
+                →
+              </button>
+            </div>
+          </div>
+        )}
+
       </div>
     </section>
   );
