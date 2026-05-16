@@ -89,7 +89,8 @@ const Testimonials = () => {
                   </p>
 
                   <div className="mt-[18px] flex items-center gap-[16px]">
-                    {[new Array(5)].map((_, index) => (
+                    {/*anlamiyorum, anlamam lazim. sonra anlarim*/}
+                    {[...Array(5)].map((_, index) => (
                       <img key={index} src={starIcon} alt="star" className="h-[20px] w-[20px]" />
                                             
                     ))}
