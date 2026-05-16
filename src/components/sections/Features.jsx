@@ -1,6 +1,12 @@
-const Features = () => {
+const Features = ({ windowWidth }) => {
+  const isNarrow = windowWidth < 992;
+
   return (
-    <section className="w-full h-[420px] bg-white flex items-center justify-center relative overflow-hidden">
+    <section 
+      className={`w-full bg-white flex items-center justify-center relative overflow-hidden ${
+        isNarrow ? 'min-h-[724px]' : 'h-[420px]'
+      }`}
+    >
       {/*CircleSSSS*/}
       <div className="absolute left-0 top-0 w-full h-full pointer-events-none">
         {/*C L*/}
@@ -38,14 +44,16 @@ const Features = () => {
         />
       </div>
       
-      <div className="max-w-[1440px] w-full px-6 flex items-center h-full relative" style={{ zIndex: 2 }}>
+      <div 
+        className={`max-w-[1440px] w-full px-6 flex h-full relative ${isNarrow ? 'items-end pb-16' : 'items-center'}`} 
+        style={{ zIndex: 2 }}
+      >
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center w-full">
           {}
           <div className="hidden lg:block">
             {}
           </div>
           
-
           <div className="space-y-6">
             {/*Heading*/}
             <h1 className="font-semibold text-[40px] leading-[60px] text-[#262626] max-w-[457px]">
